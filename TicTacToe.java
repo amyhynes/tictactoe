@@ -3,7 +3,6 @@ import java.util.Scanner;
 import java.util.Random;
 
 // Amy Hynes
-// 260716296
 
 // a program that allows a user to play Tic Tac Toe with the AI
 public class TicTacToe {
